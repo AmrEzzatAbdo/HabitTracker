@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="action_settings">Insert data</string>
+    <string name="HName">name..</string>
+    <string name="HAge">age..</string>
+    <string name="HBio">bio</string>
+    <string name="BInsert">insert</string>
+    <string name="action_deletAll">delete All</string>
+</resources>
